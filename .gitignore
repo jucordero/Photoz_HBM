@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+DES_Y1_Buzzard/
+DES_Y1_GOLD/
+
